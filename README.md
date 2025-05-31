@@ -9,13 +9,18 @@ itize globally dominant languages and often lack the linguistic
 depth and cultural sensitivity required to support regional
 learners effectively. Addressing this gap, this research introduces
 Vidy¯alaya, an AI-powered, bilingual language learning platform
-designed specifically for Telugu. The system integrates Large
+designed specifically for Telugu.
+
+The system integrates Large
 Language Models (LLMs) for grammar analysis and Wav2Vec2-
 based speech recognition to assess pronunciation from spoken
-input. It provides immediate, bilingual feedback — including
+input. 
+
+It provides immediate, bilingual feedback — including
 grammar corrections, pronunciation evaluations, and contextual
 explanations in both Telugu and English — aimed at enhancing
 learner comprehension and fluency.
+
 To improve adaptability across varying language proficiencies,
 we employ zero-shot and few-shot learning techniques via the
 Mistral API. Our evaluation reveals that few-shot prompting
